@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
-
 Hi 👋🏼
 
 I'm a Full Stack Developer at [@mobLee](https://github.com/mobLee). I've been dealing with web development in the past few years through personal projects, freelancing, or work. I want to deal with interesting problems and build things that are useful for others.
 
 <a href="https://www.linkedin.com/in/thiagoisaias"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
-<hr>
