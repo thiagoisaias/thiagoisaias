@@ -1,6 +1,6 @@
 ### Hi 👋🏼
 
-I'm a Full Stack Developer at [@mobLee](https://github.com/mobLee). I've been dealing with web development in the past few years through personal projects, freelancing, or work. I want to deal with interesting problems and build things that are useful for others.
+I'm currently a Full Stack Developer at [@mobLee](https://github.com/mobLee). I've been dealing with web development in the past few years through personal projects, freelancing, or work. I want to deal with interesting problems and build things that are useful for others.
 
 <a href="https://linkedin.com/in/thiagoisaias"><img src="https://img.shields.io/badge/-thiagoisaias-0077B5?logo=Linkedin&logoColor=white"/></a>
 
