@@ -1,6 +1,6 @@
 ### Hi 👋🏼
 
-<p>I'm a Senior Full Stack Developer at [@mobLee](https://github.com/mobLee).</p>
+<p>I'm a Senior Full Stack Developer at <a href="https://github.com/mobLee">@mobLee</a>.</p>
 
 <p>
 I've been dealing with web development in the past few years through personal projects, freelancing, or work. 
@@ -14,11 +14,9 @@ I'm currently working with the Javascript ecosystem and I've been using React, N
 I consider myself a humble guy. However, I'm hungry to keep learning new things and constantly seeking how to become better at what I do. Also, I'm always trying to see the big picture, understand the big problems and discuss ideas.
 </p>
 
-
 <a href="https://linkedin.com/in/thiagoisaias"><img src="https://img.shields.io/badge/-thiagoisaias-0077B5?logo=Linkedin&logoColor=white"/></a>
 
 <hr>
-
 
 ### Some of my main tools
 
