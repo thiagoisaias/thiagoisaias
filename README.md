@@ -1,10 +1,26 @@
 ### Hi 👋🏼
 
-I'm currently a Full Stack Developer at [@mobLee](https://github.com/mobLee). I've been dealing with web development in the past few years through personal projects, freelancing, or work. I want to deal with interesting problems and build things that are useful for others.
+<p>I'm a Senior Full Stack Developer at [@mobLee](https://github.com/mobLee).</p>
+
+<p>
+I've been dealing with web development in the past few years through personal projects, freelancing, or work. 
+</p>
+
+<p>
+I'm currently working with the Javascript ecosystem and I've been using React, Node.js and Typescript to build digital products. Despite putting a lot of effort in this stack, at the end of the day, what I really like to do is to build things that are useful for others. Because of this, I'm always open (and eager) to learn new technologies.
+</p>
+
+<p>
+I consider myself a humble guy. However, I'm hungry to keep learning new things and constantly seeking how to become better at what I do. Also, I'm always trying to see the big picture, understand the big problems and discuss ideas.
+</p>
+
 
 <a href="https://linkedin.com/in/thiagoisaias"><img src="https://img.shields.io/badge/-thiagoisaias-0077B5?logo=Linkedin&logoColor=white"/></a>
 
 <hr>
+
+
+### Some of my main tools
 
 <p>
 
@@ -16,7 +32,6 @@ I'm currently a Full Stack Developer at [@mobLee](https://github.com/mobLee). I'
 ![MongoDB](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 
 </p>
-
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=thiagoisaias.visitor-badge)](https://github.com/thiagoisaias)
