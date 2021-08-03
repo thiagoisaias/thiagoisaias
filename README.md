@@ -1,7 +1,5 @@
 ### Hi 👋🏼
 
-<p>I'm a Senior Full Stack Developer at <a href="https://github.com/mobLee">@mobLee</a>.</p>
-
 <p>
 I've been dealing with web development in the past few years through personal projects, freelancing, or work. I'm currently working with the JavaScript ecosystem and I've been using React, Node.js and Typescript to build digital products. Despite putting a lot of effort in this stack, at the end of the day, what I really like to do is to build things that are useful for others. Because of this, I'm always open (and eager) to learn new technologies.
 </p>
