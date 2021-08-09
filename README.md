@@ -1,7 +1,7 @@
 ### Hi 👋🏼
 
 
-I'm a Full Stack Developer at <a href="https://github.com/orgs/agencyenterprise/dashboard">AE Studio</a>
+I'm a Full Stack Developer at <a href="https://github.com/agencyenterprise">AE Studio</a>
 
 <p>
 I've been dealing with web development in the past few years through personal projects, freelancing, or work. I'm currently working with the JavaScript ecosystem and I've been using React, Node.js and Typescript to build digital products. Despite putting a lot of effort in this stack, at the end of the day, what I really like to do is to build things that are useful for others. Because of this, I'm always open (and eager) to learn new technologies.
