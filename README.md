@@ -4,11 +4,15 @@
 I'm a Full Stack Developer at <a href="https://github.com/agencyenterprise">AE Studio</a>
 
 <p>
-I've been dealing with web development in the past few years through personal projects, freelancing, or work. I'm currently working with the JavaScript ecosystem and I've been using React, Node.js and Typescript to build digital products. Despite putting a lot of effort in this stack, at the end of the day, what I really like to do is to build things that are useful for others. Because of this, I'm always open (and eager) to learn new technologies.
+I've been dealing with web development for +5 years through personal projects, freelancing, or work. My area of expertise is the JavaScript ecosystem where I've been using React, Node.js, and Typescript to build Web Applications. Despite enjoying working with this stack, at the end of the day, what I really like to do is to build things that are useful for others. Because of this, I already used different tools, languages, and I'm always open to trying new technologies.
 </p>
 
 <p>
-I consider myself a humble guy. However, I believe I have enough knowledge to build a product from idea to production. My current goal is to keep improving my skills, to deal with relevant problems, to share knowledge with other engineers and to keep learning about the industry best practices.
+My previous experiences go from quickly developing simple MVPs to maintaining complex products with multiple services.
+</p>
+
+<p>
+I like to be humble, but I’m confident in my abilities to build digital products from idea to scaling in production. My current goal is to keep improving my skills, deal with relevant problems, share knowledge with other engineers and keep learning about best practices in software development.
 </p>
 
 <a href="https://linkedin.com/in/thiagoisaias"><img src="https://img.shields.io/badge/-thiagoisaias-0077B5?logo=Linkedin&logoColor=white"/></a>
