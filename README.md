@@ -4,7 +4,7 @@
 I'm a Full Stack Developer at <a href="https://github.com/agencyenterprise">AE Studio</a>
 
 <p>
-I've been dealing with web development for +5 years through personal projects, freelancing, or work. My area of expertise is the JavaScript ecosystem where I've been using React, Node.js, and Typescript to build Web Applications. Despite enjoying working with this stack, at the end of the day, what I really like to do is to build things that are useful for others. Because of this, I already used different tools, languages, and I'm always open to trying new technologies.
+I've been dealing with web development for +8 years through personal projects, freelancing, or work. My area of expertise is the JavaScript ecosystem where I've been using React, Node.js, and Typescript to build Web Applications. Despite enjoying working with this stack, at the end of the day, what I really like to do is to build things that are useful for others. Because of this, I already used different tools, languages, and I'm always open to trying new technologies.
 </p>
 
 <p>
